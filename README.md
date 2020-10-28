@@ -1,6 +1,6 @@
 ### Hi there, I'm Roshan - aka [RJose7][website] 👋
 
-[![Website](https://avatars2.githubusercontent.com/u/53434595?s=460&u=c294c73acf1fe153435b036d379e214e37774949&v=4)](https://roshjose.codes)
+[![Website]("./assets/profile.png")](https://roshjose.codes)
 
 ## I'm a Student, Developer, and PC Gamer!!
 
@@ -18,19 +18,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="React" width="26px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />]
-[<img align="left" alt="React" width="26px" src="https://th.bing.com/th/id/OIP.tZKxFU0lwHLBBNMxk53WfAHaJh?pid=Api&rs=1g" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./assets/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="./assets/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="./assets/css.png" />]
+[<img align="left" alt="Sass" width="26px" src="./assets/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="./assets/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="./assets/react.png" />]
+[<img align="left" alt="Next" width="26px" src="./assets/next-js.png" />]
+[<img align="left" alt="Flask" width="26px" src="./assets/flask.jpg" />]
+[<img align="left" alt="Node.js" width="26px" src="./assets/nodejs.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.png" />]
+[<img align="left" alt="Git" width="26px" src="./assets/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="./assets/github.jpg" />]
+[<img align="left" alt="Terminal" width="26px" src="./assets/terminal.png" />]
 
 <summary>:zap: GitHub Stats</summary>
 
