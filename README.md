@@ -18,19 +18,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="./assets/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="./assets/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="./assets/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="./assets/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="./assets/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="./assets/react.png" />]
-[<img align="left" alt="Next" width="26px" src="./assets/next-js.png" />]
-[<img align="left" alt="Flask" width="26px" src="./assets/flask.jpg" />]
-[<img align="left" alt="Node.js" width="26px" src="./assets/nodejs.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="./assets/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="./assets/github.jpg" />]
-[<img align="left" alt="Terminal" width="26px" src="./assets/terminal.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="./assets/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="./assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="./assets/css.png" />
+<img align="left" alt="Sass" width="26px" src="./assets/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="./assets/javascript.png" />
+<img align="left" alt="React" width="26px" src="./assets/react.png" />
+<img align="left" alt="Next" width="26px" src="./assets/next-js.png" />
+<img align="left" alt="Flask" width="26px" src="./assets/flask.jpg" />
+<img align="left" alt="Node.js" width="26px" src="./assets/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="./assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="./assets/github.jpg" />
+<img align="left" alt="Terminal" width="26px" src="./assets/terminal.png" />
 
 <summary>:zap: GitHub Stats</summary>
 
