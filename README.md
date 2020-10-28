@@ -1,6 +1,4 @@
-### Hi there, I'm Roshan - aka [RJose7][website] 👋
-
-[![Website]("./assets/profile.png")](https://roshjose.codes)
+### Hi there, I'm Roshan - aka RJose7 : [WebSite][website] 👋
 
 ## I'm a Student, Developer, and PC Gamer!!
 
@@ -32,9 +30,12 @@
 <img align="left" alt="GitHub" width="26px" src="./assets/github.jpg" />
 <img align="left" alt="Terminal" width="26px" src="./assets/terminal.png" />
 
+<br/>
+<br/>
+
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="RoshanJose7's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RoshanJose7&show_icons=true&hide_border=true" />
+<img align="left" alt="RoshanJose7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RoshanJose7&show_icons=true&hide_border=true" />
 
 [website]: https://roshjose.codes
 [instagram]: https://www.instagram.com/rj7_plays/
