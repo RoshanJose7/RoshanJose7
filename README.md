@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer, and PC Gamer!!
 
-- 🌱 I’m currently learning NextJS
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Flutter
+- 🥅 2021 Goals: Contribute more to Open Source Projects
 - ⚡ Fun fact: I love to Code and play the Keyboard
 
 ### Connect with me:
