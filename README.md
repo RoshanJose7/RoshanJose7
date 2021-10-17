@@ -32,7 +32,7 @@
 
 <br/>
 
-[website]: https://josecodes.netlify.app/
-[instagram]: https://www.instagram.com/rj7_plays/
-[linkedin]: https://www.linkedin.com/in/roshanjose7/
-[Buy Me Coffee]: https://www.buymeacoffee.com/roshanjose7/
+[website](https://josecodes.netlify.app/)
+[instagram](https://www.instagram.com/rj7_plays/)
+[linkedin](https://www.linkedin.com/in/roshanjose7/)
+[Buy Me Coffee](https://www.buymeacoffee.com/roshanjose7/)
