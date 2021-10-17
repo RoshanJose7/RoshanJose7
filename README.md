@@ -31,8 +31,12 @@
 <img align="left" alt="Terminal" width="26px" src="./assets/terminal.png" />
 
 <br/>
+<br/>
 
 [website](https://josecodes.netlify.app/)
+<br/>
 [instagram](https://www.instagram.com/rj7_plays/)
+<br/>
 [linkedin](https://www.linkedin.com/in/roshanjose7/)
+<br/>
 [Buy Me Coffee](https://www.buymeacoffee.com/roshanjose7/)
