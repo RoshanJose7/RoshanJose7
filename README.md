@@ -32,6 +32,7 @@
 
 <br/>
 
-[website]: https://roshjose.codes
+[website]: https://josecodes.netlify.app/
 [instagram]: https://www.instagram.com/rj7_plays/
-[linkedin]: https://www.linkedin.com/in/roshan-jose-919456118/
+[linkedin]: https://www.linkedin.com/in/roshanjose7/
+[Buy Me Coffee]: https://www.buymeacoffee.com/roshanjose7/
