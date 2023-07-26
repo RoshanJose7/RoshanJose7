@@ -1,7 +1,7 @@
 # 💫About Me :
-🕹 I'm a Student, Developer, and PC Gamer!! <br/>
-🌱 I’m currently learning Flutter <br/>
-⚡ Fun fact: I love to Code and play the Keyboard <br/>
+🕹 I'm a Full Stack Developer and a Flutter Developer.!! <br/>
+🌱 I’m currently pursuing the Microsoft AZ-900 Exam <br/>
+⚡ Fun fact: I am looking for a Full-time job at the moment, do reach out if you find any open opportunities! <br/>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=RoshanJose7&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
