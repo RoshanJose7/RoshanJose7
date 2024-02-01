@@ -1,7 +1,7 @@
 # 💫About Me :
 🕹 I'm a Full Stack Developer and a Flutter Developer! <br/>
 🌱 I’m currently pursuing the Microsoft AZ-900 Exam! <br/>
-⚡ Latest Update: I am looking for a Full-time job at the moment, please reach out to me if you find any open opportunities! <br/>
+⚡ Current Position: Tech Lead @ Dealberg
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=RoshanJose7&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
