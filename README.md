@@ -1,7 +1,7 @@
 # 💫About Me :
 🕹 I'm a Full Stack Developer and a Flutter Developer! <br/>
-🌱 I’m currently pursuing the Microsoft AZ-900 Exam! <br/>
-⚡ Current Position: Tech Lead @ Dealberg
+🌱 Curios about CyberSecurity in Gen AI! <br/>
+⚡ Current Position: MS Student @ RMIT University
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=RoshanJose7&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
